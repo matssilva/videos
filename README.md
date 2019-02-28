@@ -29,8 +29,8 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## Development Environment Setup
 
-1 - Clone this repository
-2 - Run npm install
-3 - Start the app with npm-start
-4 - Access using your preferred browser at http://localhost:3000 
+1 - Clone this repository<br />
+2 - Run npm install<br />
+3 - Start the app with npm-start<br />
+4 - Access using your preferred browser at http://localhost:3000<br />
 5 - Open DevTools
