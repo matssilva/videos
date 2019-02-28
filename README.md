@@ -26,3 +26,11 @@ The build is minified and the filenames include the hashes.<br>
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+## Development Environment Setup
+
+1 - Clone this repository
+2 - Run npm install
+3 - Start the app with npm-start
+4 - Access using your preferred browser at http://localhost:3000 
+5 - Open DevTools
